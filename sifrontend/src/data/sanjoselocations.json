@@ -1,0 +1,44 @@
+{
+    "type" : "FeatureCollection",
+    "features":[
+        {
+            "properties" : {
+                "PARK_ID" : "1",
+                "Name" : "San Jose State University",
+                "Description" : "Best Education Ever"
+            },
+            "geometry" : {
+                "coordinates" : [
+                    37.33,
+                    -121.89
+                ]
+            }
+        },
+        {
+            "properties" : {
+                "PARK_ID" : "2",
+                "Name" : "San Pedro Square",
+                "Description": "San Pedro,Opposite to One South. Heart of downtown"
+            },
+            "geometry" : {
+                "coordinates" : [
+                    37.33,
+                    -121.88
+                ]
+            }
+        },
+        {
+            "properties" : {
+                "PARK_ID" : "3",
+                "Name" : "Google Office",
+                "Description" :"Dream Company"
+            },
+            "geometry" : {
+                "coordinates" : [
+                    37.321,
+                    -121.9781
+                ]
+            }
+        }
+    ]
+}
