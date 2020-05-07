@@ -3,9 +3,12 @@
     "features":[
         {
             "properties" : {
+                "Person" : "Vaishnavi Ramesh",
                 "PARK_ID" : "1",
                 "Name" : "San Jose State University",
-                "Description" : "Best Education Ever"
+                "Description" : "Best Education Ever",
+                "Humidity" : "60%",
+                "Air Quality" : "Low Risk"
             },
             "geometry" : {
                 "coordinates" : [
@@ -16,9 +19,12 @@
         },
         {
             "properties" : {
+                "Person": "Vatsal Makani",
                 "PARK_ID" : "2",
                 "Name" : "San Pedro Square",
-                "Description": "San Pedro,Opposite to One South. Heart of downtown"
+                "Description": "San Pedro,Opposite to One South. Heart of downtown",
+                "Humidity" : "40%",
+                "Air Quality" : "High Risk"
             },
             "geometry" : {
                 "coordinates" : [
@@ -29,9 +35,12 @@
         },
         {
             "properties" : {
+                "Person" : "Rosa Parks",
                 "PARK_ID" : "3",
                 "Name" : "Google Office",
-                "Description" :"Dream Company"
+                "Description" :"Dream Company",
+                "Humidity" : "90%",
+                "Air Quality" : "High Risk"
             },
             "geometry" : {
                 "coordinates" : [

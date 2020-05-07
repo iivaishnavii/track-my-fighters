@@ -2,7 +2,7 @@
     text-align: center;
   }
 
-  nav{
+  nav,h4{
       display: flex;
       justify-content: space-around;
       align-items: center;

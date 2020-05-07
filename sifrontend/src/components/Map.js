@@ -30,8 +30,11 @@ function MapComp(){
         }
         >
           <div>
-             <h2>{selectedLocation.properties.Name}</h2>
-             <p>{selectedLocation.properties.Description}</p>
+             <h2> Name: {selectedLocation.properties.Person}</h2>
+             <p>Temperature: {selectedLocation.properties.Description}</p>
+             <p>Location: {selectedLocation.properties.Name}</p>
+             <p>Humidity: 60% </p>
+             <p>Air Quality: Low Risk</p>
           </div>
           
         </InfoWindow>

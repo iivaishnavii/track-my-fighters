@@ -1,4 +1,7 @@
 import React from 'react';
+import './Login.css'
+import {Link} from 'react-router-dom'
+
 
 function Login() {
   return (
@@ -31,7 +34,7 @@ function Login() {
 
             <p class="forgot"><a href="#">Forgot Password?</a></p>
 
-            <button class="button button-block">Log In</button>
+            <Link to="/map"><button class="button button-block">Log In</button></Link>
 
           </form>
 

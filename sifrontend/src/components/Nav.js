@@ -5,10 +5,7 @@ function Nav() {
   return (
     <nav>
         <h3>Track Fire Fighters</h3>
-        <ul>
-            <Link to="/map"><li>FireFighters</li></Link>
-            <Link to="/details"><li>Details</li></Link>
-        </ul>
+        <Link to="/login"><h4> Log Out</h4></Link>
     </nav>
   );
 }
